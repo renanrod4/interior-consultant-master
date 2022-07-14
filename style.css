@@ -547,17 +547,19 @@ footer{
 
     }
     .interior{
-        width: 1000px;
+        width: 200px;
         height: 50px;
         margin: 10px;
     }
     .interior>p{
         margin-left:0px ;
-        font-size: 30px;
+        font-size: 20px;
         
     }
     .menu{
         margin-left: 0px;
+        left: 220px;
+        top: 50px;
     }
     html.overflow{
         overflow-y: hidden
